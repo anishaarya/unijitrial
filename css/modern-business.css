@@ -1,0 +1,354 @@
+h2, h3, h4, h5, h6 ,h1{
+  /* font-family: "Montserrat"; */
+  font-weight: 700;
+  /* color:#900c3f; */
+  color: black;
+    font-family: 'Quicksand', sans-serif;
+}
+a { color: inherit; }
+.bg-image-full {
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+
+}
+
+hr.style13 {
+	height: 10px;
+	border: 0;
+	box-shadow: 0 10px 10px -10px #8c8b8b inset;
+}
+
+p{
+  /* font-family: "Montserrat"; */
+  font-weight: 500;
+  font-family: 'Quicksand', sans-serif;
+  color: black;
+}
+body {
+  /* padding-top: 56px; */
+  font-family: "Montserrat";
+}
+
+
+ul
+{
+  list-style-position: inside;
+}
+.imge{
+  /* width: 700px;
+  height: 800px; */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+.ab{
+  /* width: 20%; */
+  height: 60px;
+  width: 180px;
+  padding-left:8%;
+  /* padding-top: 8%; */
+}
+.alum{
+  width: 70%;
+}
+.down{
+  padding-left: 8%;
+  margin: auto;
+}
+.dow{
+  padding-right: 5%;
+}
+.Download-button {
+   /* margin: 1% 5% 1% 1%; */
+   /* padding-top: 10%; */
+ }
+.work{
+  /* width: 100%; */
+  width: 250px;
+  height: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.wor{
+  width: 70%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.cap{
+  /* width:80%; */
+  height: 400px;
+  width: 400px;
+}
+.abc{
+  height: 300px;
+  width:300px;
+
+}
+.blog{
+width: 500px;
+  height:  300px;
+}
+
+/* nav bar */
+.navcol{
+  background-color: #fff;
+ color: black;
+}
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 1.5rem;
+  font-weight: bold;
+
+}
+.nav-link {
+  font-size: 1.3rem;
+  font-family: "Ubuntu";
+  /* font-family: "Montserrat"; */
+  font-weight: 300;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+
+
+/* Sustainable images */
+.sus{
+  padding: 2% 10% 0 10%;
+  background-color: #fff;
+  position: relative;
+  z-index: 1;
+}
+.simg{
+  height: 100px;
+  width: 100px;
+}
+
+.sbox {
+  text-align: center;
+  padding: 1%;
+}
+#vision {
+  padding: 0 10% 2% 10%;
+  /* background-color: #fff; */
+  position: relative;
+  z-index: 1;
+}
+.vision-box {
+  text-align: center;
+  padding: 1%;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+.cen {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /* width: 600px;
+  height: 300px; */
+  width: 40%;
+
+}
+.grp{
+  align-items: center;
+  padding-left: 350px;
+}
+.a-l {
+  width: 50%;
+  /* margin: 10px 10px 10px; */
+}
+/* about image */
+#aimage {
+  background-color: #ffcd3c;
+  text-align: center;
+  padding-bottom: 1%;
+  padding-top: 1%;
+}
+.a-logo {
+  width: 40%;
+  margin: 10px 10px 10px;
+}
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+/* Campaigns section */
+.camp {
+  text-align: center;
+  /* background-color: #e4f9ff; */
+  color: #fff;
+}
+
+.t-img {
+  /* width: 30%; */
+  height: 450px;
+  width: 600px;
+  margin: 10px 10px 10px 10px;
+}
+
+
+  /* Achievements */
+  #achievements{
+    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
+  }
+  .ach-box {
+    text-align: center;
+    padding: 1%;
+  }
+  .alogo {
+    width: 50%;
+    /* margin: 10px 10px ; */
+    height: 300px;
+    width: 300px;
+  }
+  /* Sustainable images */
+  #partner{
+    /* padding: 2% 10% 0 10%; */
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
+  }
+  .paimg{
+    height: 120px;
+    width: 200px;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  .paim{
+    height: 120px;
+    width: 220px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .raimg{
+    height: 200px;
+    width: 900px;
+  }
+  .sbox {
+    text-align: center;
+    padding: 1%;
+  }
+  /* * team section */
+  .team{
+     padding: 2% 2%;
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
+  }
+  .team-box {
+    text-align: center;
+    padding: 1%;
+  }
+  .tlogo {
+    height: 150px;
+    width: 150px;
+    margin: 1px 1px;
+  }
+  /* Achievements */
+
+  .alogo {
+    /* width: 50%; */
+    /* margin: 10px 10px ; */
+    height: 200px;
+    width: 400px;
+    /* padding: 2% 1% 2% 1%; */
+  }
+  #cta {
+
+    color: #FFF;
+    padding: 4% 20%;
+    text-align: left;
+
+  }
+label{
+  color: black;
+}
+  .cta-head {
+    font-family: "Montserrat";
+    font-weight: 900;
+    line-height: 1.5;
+    color: black;
+  }
+  .btn-sign{
+    margin: 1% 1%;
+  }
+  #features {
+    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
+  }
+
+  .features-box {
+    text-align: center;
+    padding: 5%;
+  }
+
+.icon {
+  margin: 1rem;
+  color: #ffc300;
+}
+.ico{
+  color: #1b6ca8;
+}
+
+.icon:hover {
+  color: #ff9234;
+}
+.foot{
+    /* padding: 1% 1%; */
+    text-align: center;
+    background-color: #393b44;
+
+}
+.soc-icon {
+  margin: 10px 10px;
+  color: white;
+}
+
+.contact1-pic {
+  width: 296px;
+  align-items: left;
+}
+
+.contact1-pic img {
+  max-width: 100%;
+  align:left;
+}
+.carousel-item {
+  height: 65vh;
+
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width: 100%;
+}
+/* .carousel-item {
+  padding: 1% 2% 1%;
+  top and bottom right and left
+} */
+/* @media (min-width: 768px) {
+.carousel-multi-item-2 .col-md-3 {
+float: left;
+width: 25%;
+max-width: 100%;
+ } }
+
+.carousel-multi-item-2 .card img {
+border-radius: 2px;
+} */
